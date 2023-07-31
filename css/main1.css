@@ -1,0 +1,116 @@
+body{
+    background-color: azure;
+}
+.bir{
+   border:1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.text1{
+    width: 60px;
+    height: 30px;
+    background-color: green;
+    border-radius: 20px;
+}
+.text-item1{
+    width: 23px;
+    height: 23px;
+    border: 1px solid rgb(196, 165, 165);
+    border-radius: 15px;
+    background-color:white;
+    margin: 10px 0 0 35px ;
+    padding-top: 4px;
+    padding-left: -2px;
+
+}
+.l{
+    color: grey;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100px;
+}
+.ikki{
+    border:1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.text2{
+    width: 60px;
+    height: 30px;
+    background-color: rgb(191, 194, 191);
+    border-radius: 20px;
+    display: inline-block;
+}
+.text-item2{
+    width: 23px;
+    height: 23px;
+    border: 1px solid rgb(219, 214, 214);
+    border-radius: 15px;
+    background-color:whitesmoke;
+    margin: 10px 20px 20px 0;
+    padding-top: 4px;
+    padding-left: -2px;
+
+}
+.uch{
+    border:1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.text3{
+    width: 60px;
+    height: 30px;
+    border: 1px solid dimgrey;
+    background-color: dimgrey;
+}
+.text-item3{
+    color: #ffffff;
+    margin-left: 10px;
+    padding: 5px;
+}
+.tort{
+    border:1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.text4{
+    width: 60px;
+    height: 30px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.text-item4{
+    width: 23px;
+    height: 23px;
+    border: 3px solid rgb(219, 214, 214);
+    border-radius:20px;
+    background-color:lightgray;
+    margin: 10px 20px 20px 0;
+    padding-top: 4px;
+    padding-left: -2px;
+}
+.besh{
+    border:1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.text5{
+    width: 60px;
+    height: 30px;
+    border: 1px solid limegreen;
+    background-color: limegreen;
+}
+.text-item5{
+    color: #ffffff;
+    margin-left: 10px;
+    padding: 5px;
+}
